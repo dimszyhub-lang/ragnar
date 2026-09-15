@@ -1,5 +1,6 @@
 {
   "whitelist": [
-    "FINAS1235"
+    "FINAS1235",
+    "SilverWolf2405"
   ]
 }
