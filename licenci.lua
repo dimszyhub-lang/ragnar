@@ -1,3 +1,5 @@
 {
-  "whitelist": []
+  "whitelist": [
+    "FINAS1235"
+  ]
 }
