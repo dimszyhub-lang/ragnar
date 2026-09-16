@@ -6,6 +6,7 @@
     "SilverWolf2405",
     "TahuBulatdigoreng171",
     "muhalputra",
-    "silverwolf2405"
+    "silverwolf2405",
+    "tahuBulatdigoreng171"
   ]
 }
