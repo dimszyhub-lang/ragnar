@@ -2,6 +2,7 @@
   "whitelist": [
     "AeroNewbie99",
     "Boui1155",
+    "Diimmzxx",
     "Diktadikta16",
     "FINAS1235",
     "Gembot_54",
