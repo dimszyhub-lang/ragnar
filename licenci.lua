@@ -1,5 +1,6 @@
 {
   "whitelist": [
+    "ARDIKARA72",
     "AeroNewbie99",
     "Boui1155",
     "Diimmzxx",
