@@ -2,6 +2,7 @@
   "whitelist": [
     "ARDIKARA72",
     "AeroNewbie99",
+    "Ariyya_13",
     "Boui1155",
     "CO2VINZYYY",
     "Dedeww288",
