@@ -30,6 +30,7 @@
     "elgaa_123",
     "feeywithme",
     "inikai20",
+    "jancok76542",
     "kasep3_2",
     "machaa1003",
     "muhalputra",
