@@ -2,6 +2,7 @@
   "whitelist": [
     "99513189080831",
     "Gembot_54",
+    "JJHHlamp",
     "KASEP3_2",
     "MEKARJAYA058",
     "PNYLST",
@@ -11,7 +12,6 @@
     "acaaaaa714",
     "adtywhysrdn0",
     "alghani0857",
-    "anakbuahdimas1",
     "ehanexp",
     "elyynnn_lynn",
     "iyaaa0190",
