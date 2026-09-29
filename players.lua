@@ -14,6 +14,7 @@
     "iyaaa0190",
     "nb37482na894",
     "syahadat450",
-    "tahuBulatdigoreng171"
+    "tahuBulatdigoreng171",
+    "wais123306"
   ]
 }
