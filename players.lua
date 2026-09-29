@@ -1,5 +1,6 @@
 {
   "whitelist": [
+    "Boui1155",
     "Gembot_54",
     "KASEP3_2",
     "PriantoLpg",
@@ -10,7 +11,6 @@
     "elyynnn_lynn",
     "iyaaa0190",
     "nb37482na894",
-    "rinnnnnnn696",
     "syahadat450",
     "tahuBulatdigoreng171"
   ]
