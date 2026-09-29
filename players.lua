@@ -3,6 +3,7 @@
     "99513189080831",
     "Gembot_54",
     "KASEP3_2",
+    "MEKARJAYA058",
     "PNYLST",
     "PriantoLpg",
     "RendyYTY",
