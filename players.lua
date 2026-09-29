@@ -1,8 +1,8 @@
 {
   "whitelist": [
-    "AeroNewbie99",
     "Gembot_54",
     "KASEP3_2",
+    "PNYLST",
     "PriantoLpg",
     "RendyYTY",
     "Zhan2You",
