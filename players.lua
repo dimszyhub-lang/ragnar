@@ -1,6 +1,6 @@
 {
   "whitelist": [
-    "AeroNewbie99",
+    "Boui1155",
     "Gembot_54",
     "KASEP3_2",
     "PriantoLpg",
