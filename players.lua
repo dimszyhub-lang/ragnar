@@ -1,7 +1,7 @@
 {
   "whitelist": [
     "KASEP3_2",
-    "Shuyooo3",
+    "Ninopaisal",
     "Zhan2You",
     "acaaaaa714",
     "elyynnn_lynn",
