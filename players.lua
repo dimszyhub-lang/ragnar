@@ -11,7 +11,6 @@
     "NottYourBroo",
     "OnlyHuman_25",
     "PNYLST",
-    "Presidenrsj",
     "PriantoLpg",
     "Rayyxzxz3",
     "RendyYTY",
@@ -26,6 +25,7 @@
     "jancok76542",
     "mhmmd_alfin15",
     "nb37482na894",
+    "presidenrsj",
     "syahadat450",
     "tahuBulatdigoreng171",
     "wais123306"
