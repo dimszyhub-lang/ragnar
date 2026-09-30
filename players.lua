@@ -2,6 +2,7 @@
   "whitelist": [
     "19agaskara",
     "99513189080831",
+    "Chyyrennn",
     "Diimmzxx",
     "Gembot_54",
     "JJHHlamp",
@@ -19,7 +20,6 @@
     "acaaaaa714",
     "adtywhysrdn0",
     "alghani0857",
-    "ariyya_13",
     "ehanexp",
     "elyynnn_lynn",
     "iyaaa0190",
