@@ -2,6 +2,7 @@
   "whitelist": [
     "19agaskara",
     "99513189080831",
+    "Diimmzxx",
     "Gembot_54",
     "JJHHlamp",
     "KASEP3_2",
@@ -20,7 +21,6 @@
     "alghani0857",
     "ehanexp",
     "elyynnn_lynn",
-    "ininisaa10",
     "iyaaa0190",
     "jancok76542",
     "mhmmd_alfin15",
