@@ -1,5 +1,6 @@
 {
   "whitelist": [
+    "19agaskara",
     "99513189080831",
     "Gembot_54",
     "JJHHlamp",
