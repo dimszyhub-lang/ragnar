@@ -2,6 +2,7 @@
   "whitelist": [
     "19agaskara",
     "99513189080831",
+    "AeroNewbie99",
     "Chyyrennn",
     "Diimmzxx",
     "Gembot_54",
