@@ -40,6 +40,7 @@
     "nb37482na894",
     "syahadat450",
     "tahuBulatdigoreng171",
-    "wais123306"
+    "wais123306",
+    "zzaky_445"
   ]
 }
